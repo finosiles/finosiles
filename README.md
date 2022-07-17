@@ -1,4 +1,14 @@
-### Hi there 👋
+# Rufino Siles Molina - finosiles
+
+### Hola!👋
+
+Soy docente de música, desde hace más de 10 años que estoy relacionado con la tecnología, desde que comence a utlizar software libre este me abrio las puertas a el estudio del codigo y asi a estudiar programación. 
+Usuario de Arch Linux-Debian, Emacs y en mis tiempos libres me dedico a la lutheria 🔭.
+
+
+
+
+
 
 <!--
 **finosiles/finosiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
